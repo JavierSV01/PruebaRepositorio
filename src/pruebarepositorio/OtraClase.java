@@ -12,7 +12,7 @@ package pruebarepositorio;
 public class OtraClase {
     
     public static void main(String[] args) {
-        int numero = 10;
+        
     }
     
 }
